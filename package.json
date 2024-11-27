@@ -1,7 +1,7 @@
 {
   "name": "heart",
   "version": "1.0.0",
-  "description": "",
+  "description": "HEART is a web-based project that displays an animated heart on the screen. The heart animation is created using HTML5 canvas and JavaScript. The project is designed to be visually appealing and can be used as a decorative element on websites or as a fun project to learn about canvas animations.",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
